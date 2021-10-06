@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Rawat</h1>
-<h3 align="center">I am a IIIrd year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus.I am a passionate frontend developer.I practice competitive programming using C/C++ to enhance my problem solving skills . Learning about new technologies and algorithms helps me with the development of problem solving techniques and broaden my skill set Feel Free to connect!</h3>
+<h3 align="center">I am a IIIrd year Computer Science & Engineering student studying in SRM Institute of Science and Technology, Kattankulathur campus .I am a passionate frontend developer and lead at coding ninjas srm.I use C/C++ for problem solving and competitive programming and interested in learning about new technologies and algorithms which in turn helps me with the development of problem solving techniques.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yr6679&label=Profile%20views&color=0e75b6&style=flat" alt="yr6679" /> </p>
 
